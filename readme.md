@@ -2,6 +2,8 @@
 ## 后端作业一
 在 fastapi 中实现 chinook 数据库中 `employee` 和 `customer` 表的增删改查接口，为查询接口完成限流，10秒限3次
 
+**交互式测试**：[https://crud.sparxie.top/docs/](https://crud.sparxie.top/docs/)
+
 ## 后端作业二
 1. 查询不在美国境内的客户的姓名，客户id和国家。
 ```sql
